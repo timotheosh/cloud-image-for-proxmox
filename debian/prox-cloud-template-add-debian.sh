@@ -96,7 +96,7 @@ IMAGE_FILE="debian-${DEBIAN_VERSION}-genericcloud-amd64.qcow2"
 
 MEM_SIZE="1024"
 CORES="1"
-DISK_SIZE="20G"
+DISK_SIZE="4G"
 SSH_KEYS="./keys"
 IMAGE_URL="https://cloud.debian.org/images/cloud/${DEBIAN_DISTRO_LOWER}/latest/debian-${DEBIAN_VERSION}-genericcloud-amd64.qcow2"
 HASH_URL="https://cloud.debian.org/images/cloud/${DEBIAN_DISTRO_LOWER}/latest/SHA512SUMS"

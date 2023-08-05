@@ -99,7 +99,7 @@ fi
 
 MEM_SIZE="1024"
 CORES="1"
-DISK_SIZE="20G"
+DISK_SIZE="4G"
 SSH_KEYS="./keys"
 IMAGE_URL="https://cloud-images.ubuntu.com/${UBUNTU_DISTRO}/current/${IMAGE_FILE}"
 HASH_URL="https://cloud-images.ubuntu.com/${UBUNTU_DISTRO}/current/SHA256SUMS"
