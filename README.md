@@ -43,7 +43,7 @@ For specific Linux distributions, see the specific folders:
 | **<img src="./debian/logo.png" width="22" valign="middle"/> [Debian](./debian/)** | Buster 10 and later |
 | **<img src="./opensuse/logo.png" width="22" valign="middle"/> [openSUSE Leap 15.x](./opensuse/)** | 15.2 and later |
 | **<img src="./rockylinux/logo.png" width="22" valign="middle"/> [Rocky Linux 8-9](./rockylinux/)** | v8 and later |
-| **<img src="./ubuntu/logo.png" width="22" valign="middle"/> [Ubuntu 18.04-22.04](./ubuntu/)** | 18.04 LTS and later |
+| **<img src="./ubuntu/logo.png" width="22" valign="middle"/> [Ubuntu 18.04-24.04](./ubuntu/)** | 18.04 LTS and later |
 
 ## More Information
 
